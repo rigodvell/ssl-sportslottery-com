@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rigodvell.github.io/ssl-sportslottery-com/sitemap.xml
